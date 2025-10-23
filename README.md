@@ -1,5 +1,9 @@
 # 🎧 Fıstık Player - Akıllı Müzik Oynatıcı / Smart Music Player
 
+> **Önemli Not:** Uygulama geliştirme aşamasında olduğu için hatalar veya eksiklikler içerebilir. Yaşayabileceğiniz aksaklıklar için şimdiden özür dileriz!
+>
+> **Important Note:** As the application is under development, it may contain bugs or incompleteness. We sincerely apologize in advance for any inconvenience you may experience!
+
 Fıstık Player, Python ve PyQt6 kullanılarak geliştirilmiş modern, masaüstü odaklı bir müzik çalardır. Klasör tabanlı gezinme, senkronize şarkı sözü (LRC) desteği ve gelişmiş oynatma kontrolleri sunar.
 
 Fistik Player is a modern desktop music player developed using Python and PyQt6. It offers folder-based navigation, built-in favorite and playlist management, and synchronized lyric (LRC) support.
