@@ -12,7 +12,6 @@ Fistik Player is a modern desktop music player developed using Python and PyQt6.
 | :--- | :--- |
 | **Akıllı Dizin Gezintisi** | **Smart Directory Navigation** |
 | **LIFO (4 → 3 → 2 → 1) Geçmiş** | **LIFO (Last-In, First-Out) History:** Consistent **4 → 3 → 2 → 1** folder navigation. |
-| **LRC (Senkronize Söz) Desteği** | **LRC (Synchronized Lyrics) Support** |
 | **Kalıcı Veri (Favoriler/Playlist)** | **Persistent Data (Favorites/Playlist)** |
 | **Spleeter Entegrasyonu** | **Spleeter Integration** (External vocal separation tool support). |
 | **Modern Koyu Tema** | **Modern Dark Theme** |
