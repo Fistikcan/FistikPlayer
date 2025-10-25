@@ -4,7 +4,7 @@
 >
 > **Important Note:** As the application is under development, it may contain bugs or incompleteness. We sincerely apologize in advance for any inconvenience you may experience!
 
-Fistik Player is a modern desktop music player developed using Python and PyQt6. It offers folder-based navigation, built-in favorite and playlist management, and synchronized lyric (LRC) support.
+Fistik Player is a modern desktop music player developed using Python and PyQt6. It offers folder-based navigation, built-in favorite and playlist management.
 
 ## ✨ Temel Özellikler / Core Features
 
